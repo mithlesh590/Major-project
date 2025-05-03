@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Major Project</title>
+</head>
+<body>
+    <h1>This is Major Project</h1>
+    <h2>This is Major Project </h2>
+    <h3>This is Major Project</h3>
+    <h4>This is Major Project</h4>
+    <h5>This is Major Project</h5>
+</body>
+</html>
